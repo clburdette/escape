@@ -5,3 +5,4 @@ Saved/
 *.db
 *.db-shm
 *.db-wal
+*.ipch
