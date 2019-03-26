@@ -1,0 +1,7 @@
+Content/StarterContent/
+Intermediate/
+Binaries/
+Saved/
+*.db
+*.db-shm
+*.db-wal
